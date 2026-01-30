@@ -14,7 +14,7 @@ Dein Ziel ist nicht „spielbar“, sondern:
 
 ---
 
-## Phase 0 – Regel-Extraktion (sehr wichtig)
+## [[Phase 0]] – Regel-Extraktion (sehr wichtig)
 
 Bevor du **eine einzige Klasse** schreibst:
 
@@ -36,7 +36,7 @@ Beispiele (nur Denkimpulse, keine Antworten):
 
 ---
 
-## Phase 1 – Domänenkern (ohne Kampf!)
+## [[Phase 1]] – Domänenkern (ohne Kampf!)
 
 Ignoriere **komplett**:
 
@@ -84,7 +84,7 @@ Fragen, die du dir beantworten musst (für dich, nicht mir):
 
 ---
 
-## Phase 2 – Zustände & Invarianten
+## [[Phase 2]] – Zustände & Invarianten
 
 Jetzt wird’s spannend.
 
@@ -111,7 +111,7 @@ Beispiele für Denkfallen:
 
 ---
 
-## Phase 3 – Entwicklung (Evolution)
+## [[Phase 3]] – Entwicklung (Evolution)
 
 ORAS ist hier perfekt, weil:
 
@@ -143,7 +143,7 @@ Diese Entscheidung beeinflusst dein gesamtes Design.
 
 ---
 
-## Phase 4 – Zeit & Ereignisse
+## [[Phase 4]] – Zeit & Ereignisse
 
 Noch kein Kampf, aber:
 
@@ -183,7 +183,7 @@ Fragen:
 
 ---
 
-## Phase 5 – Bedingungen & Regeln
+## [[Phase 5]] – Bedingungen & Regeln
 
 Jetzt darfst du anfangen, **Bedingungen zu prüfen**.
 

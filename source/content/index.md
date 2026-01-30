@@ -1,9 +1,4 @@
 ---
-title: My GitHub Pages Notebook!
+title: My Own Pokémon Game
 ---
-
-Hello world!
-
-Write some words here!
-
-yo!
+I want to make my own Pokémon game! Check out my [[README]]!
