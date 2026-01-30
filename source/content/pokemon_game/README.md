@@ -7,4 +7,4 @@ Aber es geht auch erstmal um das Prinzip der Entwicklung.
 Um einen Anhaltspunkt zu bekommen, habe ich mal [[ChatGPT]] gefragt.
 
 
-Gez. Nicolas Holzmann, 30.01.2026
+Gez. Blaze-Codes, 30.01.2026
